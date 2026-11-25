@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fieldworks20.github.io/sitemap.xml
